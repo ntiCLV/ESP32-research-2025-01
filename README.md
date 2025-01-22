@@ -5,4 +5,4 @@ Pour créer des liens ci-dessous utiliser la syntaxe suivante : [Cliquez ici](ht
 
  Recherche Hamza : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/recherches-hamza.pdf) 
 
-<-- lien ici Pour Yuri
+recherche Yuri : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/Guide-explication-l'ESP32.pdf)
