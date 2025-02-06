@@ -24,4 +24,4 @@ SSD1306 écran oled : [cliquer ici](https://www.amazon.fr/AZDelivery-Caract%C3%A
 
 Les étapes pour faire un  branchement d’un capteur de température sur une plaquette d’essaie et une carte ESP-32 : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/contrendu-esp-32-capteur-de-temperature.pdf)
 
-toutes les Étapes de comment on n'a connecter la carte ESP32 a Arduino et essayer de faire detecter la Camera ESP32 : [cliquer ici]()
+toutes les Étapes de comment on n'a connecter la carte ESP32 a Arduino et essayer de faire detecter la Camera ESP32 : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/contrendu-guide-esp32-yuri.pdf)
