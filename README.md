@@ -22,5 +22,6 @@ Capteur d'humidité DHT22 : [cliquer ici](https://www.amazon.fr/Temp%C3%A9rature
 
 SSD1306 écran oled : [cliquer ici](https://www.amazon.fr/AZDelivery-Caract%C3%A8res-Compatible-Raspberry-incluant/dp/B078J78R45?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YWER0E0YF6ZI&dib=eyJ2IjoiMSJ9.B-p1DIVvtu_EdejogZwUkLcgf4ON7gtVeL0v2I-Ze4CdwYzAGTe2VqOMYo1LwOvlUm4S4I4DFJnlFfo0CR-1QpSrbkXSnQItxmR6vAb3Y8voutLdOQWot3nSwryPaYfrunatRAuzs0PS-2ICyShilUIZBwBm9wGK0NYNl4Rd11lnO9uLl03d1RYiHb0bkp8jiQPCDt8xfmell9Q8_eatdmaSo7sTTA5axwwGdFx5FJiedgslwvQZlCiUyqTPT1Bz.KcX0_n2jTAA1aiq_BS1tELFOA0aJcJ-nQlJhebR1Bxo&dib_tag=se&keywords=SSD1306&qid=1738588121&sprefix=ssd1306%2B%2Caps%2C117&sr=8-5&th=1)
 
-Les étapes pour faire un  branchement d’un capteur de température sur une plaquette d’essaie et une carte ESP-32:[cliquer ici](https://github.com/user-attachments/assets/b0fb8b8e-fd34-4238-b9b3-6776623cf228)
+Les étapes pour faire un  branchement d’un capteur de température sur une plaquette d’essaie et une carte ESP-32:[cliquer ici](file:///C:/Users/iot/Documents/contrendu-esp-32-capteur-de-temperature.pdf)
 
+toutes les Étapes de comment on n'a connecter la carte ESP32 a Arduino et essayer de faire detecter la Camera ESP32: [cliquer ici](file:///C:/Users/iot/Documents/contrendu-guide-esp32-yuri.pdf)
