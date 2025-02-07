@@ -27,3 +27,9 @@ Les étapes pour faire un  branchement d’un capteur de température sur une pl
 Toutes les Étapes de comment on n'a connecter la carte ESP32 a Arduino et essayer de faire detecter la Camera ESP32 : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/contrendu-guide-esp32-yuri.pdf)
 
 tutorial pour la carte Freenove Breakout Board for ESP 32 : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/Tutorial.pdf)
+
+
+Capteurs :
+
+CO2 précis (MH-Z14A) : Exemple de code ESP32 [cliquer ici](https://github.com/rafalmag/ESP32-MH-Z14A) Exemple de code Arduino [cliquer ici](https://gist.github.com/takashiski/3a1c1da6b9aac8863696d960660461f3)
+
