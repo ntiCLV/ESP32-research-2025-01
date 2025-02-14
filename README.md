@@ -35,4 +35,4 @@ Capteurs :
 
 CO2 précis (MH-Z14A) : Exemple de code ESP32 [cliquer ici](https://github.com/rafalmag/ESP32-MH-Z14A) Exemple de code Arduino [cliquer ici](https://gist.github.com/takashiski/3a1c1da6b9aac8863696d960660461f3)
 
-compte rendu du premier mois du projet iot:[cliquer ici](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f097fb51-f67e-4574-8883-9da719fb714d) 
+compte rendu du premier mois du projet iot : [cliquer ici](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f097fb51-f67e-4574-8883-9da719fb714d) 
