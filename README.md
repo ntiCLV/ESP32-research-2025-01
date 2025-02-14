@@ -30,6 +30,7 @@ Toutes les Étapes de comment on n'a connecter la carte ESP32 a Arduino et essay
 
 tutorial pour la carte Freenove Breakout Board for ESP 32 : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/Tutorial.pdf)
 
+guide de branchement module mq2 : [cliquer ici](https://acrobat.adobe.com/id/urn:aaid:sc:EU:ad048bc4-7edb-4454-b0ee-03d1d837c2bc)
 
 Capteurs :
 
