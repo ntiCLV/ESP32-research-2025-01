@@ -5,6 +5,8 @@ Pour créer des liens ci-dessous utiliser la syntaxe suivante : [Cliquez ici](ht
 
  Recherche Hamza : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/recherches-hamza.pdf) 
 
+compte rendu des lien envoyée par mail : [cliquer ici](https://acrobat.adobe.com/id/urn:aaid:sc:EU:efac21a3-4ca6-4abc-8f32-b1efb91e4710)
+
 recherche Yuri : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/Guide-explication-l'ESP32.pdf)
 
 Lien Internet Youtube : [cliquer ici](https://www.youtube.com/watch?v=IuyBaxSqQ50)
