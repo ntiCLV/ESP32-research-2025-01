@@ -40,5 +40,17 @@ CO2 précis (MH-Z14A) : Exemple de code ESP32 [cliquer ici](https://github.com/r
 
 compte rendu du premier mois du projet iot : [cliquer ici](https://github.com/ntiCLV/ESP32-research-2025-01/blob/main/Resume-projet-1ere-periode.pdf)
 
+ESP Home :
+
 site pour L'esphome avec docker [cliquer ici](https://technologie-geek.fr/esphome-sur-docker-et-home-assistant/)
+
+Getting Started with ESPHome and Home Assistant [cliquer ici](https://esphome.io/guides/getting_started_hassio)
+
+Home Assistant :
+
+Installation - Home Assistant [cliquer ici](https://www.home-assistant.io/installation/)
+
+Home Assistant : faire les bons choix d'installation [cliquer ici](https://www.hacf.fr/ha_commencer_base_solide/)
+
+Home Assistant - How to change IP address in CLI [cliquer ici](https://community.home-assistant.io/t/how-to-change-ip-address-in-cli/332205)
 
