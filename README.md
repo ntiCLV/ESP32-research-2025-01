@@ -50,6 +50,8 @@ Home Assistant :
 
 Installation - Home Assistant [cliquer ici](https://www.home-assistant.io/installation/)
 
+Home Assistant OS (HAOS) with Proxmox VE 8.0 Install Guide [cliquer ici](https://community.home-assistant.io/t/home-assistant-os-haos-with-proxmox-ve-8-0-install-guide/584972)
+
 Home Assistant : faire les bons choix d'installation [cliquer ici](https://www.hacf.fr/ha_commencer_base_solide/)
 
 Home Assistant - How to change IP address in CLI [cliquer ici](https://community.home-assistant.io/t/how-to-change-ip-address-in-cli/332205)
